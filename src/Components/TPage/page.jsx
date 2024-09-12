@@ -172,13 +172,13 @@ const TeamPage = () => {
 
         <div className={styles.teamPage_content4}>
           <div className={styles.teamPage_content4_Text}>
-            <p>
+{/*             <p>
               And When It Stops, It’s Not Over - It’s In You Now, In Your Head,
               Your Heart, And Spirit. You Have To Tell Someone, Right Now, ‘you
               Must See This’. You Share It, And They Get It. They’re In It With
               You, And It’s In Them Too. You Shared The Wonder You Know 
               Feeling? That’s What We’re After, Every Time We Make A Film.{""}The
-            </p>
+            </p> */}
           </div>
         </div>
         <TeamCards />
